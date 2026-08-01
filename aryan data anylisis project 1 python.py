@@ -38,7 +38,7 @@ from sqlalchemy import create_engine
 
 # MySQL connection
 username = "root"
-password = "xezen133"
+password = "password"
 host = "localhost"
 port = "3306"
 database = "dataanylisis_project_1"

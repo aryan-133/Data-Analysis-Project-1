@@ -1,8 +1,8 @@
 # Data-Analysis-Project-1
 Project showcase an analysis of customer behavior with the help of the data set provided. Project involves the usage of Python, MySQL and Power BI. 
-# 🛍️ Customer Shopping Behavior Analysis
+# Customer Shopping Behavior Analysis
 
-## 📌 Project Overview
+## #Project Overview
 
 This project analyzes customer shopping behavior using Python, MySQL, and Power BI to uncover purchasing patterns, customer segments, and revenue insights. The dataset was cleaned, transformed, stored in a relational database, and analyzed using SQL before being visualized in an interactive Power BI dashboard.
 
@@ -10,7 +10,7 @@ The objective of this project is to demonstrate an end-to-end data analytics wor
 
 ---
 
-## 🎯 Objectives
+## #Objectives
 
 * Clean and preprocess raw customer shopping data.
 * Perform feature engineering to improve analysis.
@@ -21,7 +21,7 @@ The objective of this project is to demonstrate an end-to-end data analytics wor
 
 ---
 
-## 🛠️ Tech Stack
+## #Tech Stack
 
 * **Python**
 
@@ -33,7 +33,7 @@ The objective of this project is to demonstrate an end-to-end data analytics wor
 
 ---
 
-## 📂 Project Workflow
+## #Project Workflow
 
 ### 1. Data Preprocessing (Python)
 
@@ -75,7 +75,7 @@ The project answers questions such as:
 
 ---
 
-## 📊 Power BI Dashboard
+## #Power BI Dashboard
 
 The dashboard provides interactive visualizations including:
 
@@ -92,7 +92,7 @@ Interactive filters allow users to explore the data from multiple business persp
 
 ---
 
-## 📁 Repository Structure
+## #Repository Structure
 
 ```
 ├── aryan data anylisis project 1 python.py     # Data preprocessing using Python
@@ -104,7 +104,7 @@ Interactive filters allow users to explore the data from multiple business persp
 
 ---
 
-## 📈 Skills Demonstrated
+## #Skills Demonstrated
 
 * Data Cleaning
 * Data Transformation
@@ -118,7 +118,7 @@ Interactive filters allow users to explore the data from multiple business persp
 
 ---
 
-## 🚀 Future Improvements
+## #Future Improvements
 
 * Build predictive models for customer spending.
 * Perform customer segmentation using machine learning.
@@ -128,7 +128,7 @@ Interactive filters allow users to explore the data from multiple business persp
 
 ---
 
-## 👤 Author
+## #Author
 
 **Aryan**
 
